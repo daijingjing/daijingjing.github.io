@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:32:44.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="d4cD-wDmcppSVyvkN7zd" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T08:39:06.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uXMWVSOopdhb21JzAczK" version="16.1.0" type="github">
   <diagram id="x0EZh-DOJBQfG6QSc-WA" name="Page-1">
-    <mxGraphModel dx="1186" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-MnHde-2bp_Zg5yJfrEA-1" value="业务管理子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-1" value="业务管理子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-2" value="集团运营管理子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-3" value="运力管理子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-4" value="业务操作子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-5" value="购液端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-6" value="贸易端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-7" value="运力端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
