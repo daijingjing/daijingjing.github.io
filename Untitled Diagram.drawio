@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T02:38:14.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="r19CHU8Y4yaeMdANkwtU" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T02:41:17.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XS1KKqr1RQ4asNgb5Uxa" version="16.1.0" type="github">
   <diagram id="x0EZh-DOJBQfG6QSc-WA" name="Page-1">
     <mxGraphModel dx="988" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="-MnHde-2bp_Zg5yJfrEA-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.57;dx=13.67;rounded=0;sketch=0;strokeColor=#d79b00;strokeWidth=0;fillColor=#ffcd28;rotation=-90;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="561.25" y="170" width="57.5" height="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="-MnHde-2bp_Zg5yJfrEA-37" value="查询统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-37" value="液厂端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
