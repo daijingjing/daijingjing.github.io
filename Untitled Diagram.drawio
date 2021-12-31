@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T08:47:51.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fi1Le-BHKJrn-xLJG9_h" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T01:00:35.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tK3We9q5U5JFN1-VoGll" version="16.1.0" type="github">
   <diagram id="x0EZh-DOJBQfG6QSc-WA" name="Page-1">
-    <mxGraphModel dx="1186" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,18 @@
         </mxCell>
         <mxCell id="-MnHde-2bp_Zg5yJfrEA-13" value="HTTPS API Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-16" value="业务数据库" style="strokeWidth=0;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#46495D;fillColor=#B2C9AB;spacing=1;spacingTop=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="605" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-17" value="缓存数据库" style="strokeWidth=0;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#46495D;fillColor=#B2C9AB;spacing=2;spacingTop=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="605" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.58;dx=22.83;rounded=0;sketch=0;strokeColor=#d79b00;strokeWidth=0;fillColor=#ffcd28;rotation=-90;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="550" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-MnHde-2bp_Zg5yJfrEA-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.58;dx=22.83;rounded=0;sketch=0;strokeColor=#d79b00;strokeWidth=0;fillColor=#ffcd28;rotation=-90;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="550" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
