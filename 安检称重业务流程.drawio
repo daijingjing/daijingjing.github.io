@@ -12,13 +12,13 @@
             <mxRectangle x="40" width="770" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="推送业务&lt;div&gt;销售/采购订单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="推送业务&lt;div&gt;销售/采购订单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="50" y="25" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-19" value="标记订单&lt;div&gt;车辆入场&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-19" value="标记订单&lt;div&gt;车辆入场&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="500" y="25" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-38" value="记录订单装车数据" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-38" value="记录订单装车数据" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="660" y="25" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="司机" style="swimlane;html=1;startSize=40;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
@@ -33,7 +33,7 @@
         <mxCell id="5SrO1-f8xOF5O9hoDV5b-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="5SrO1-f8xOF5O9hoDV5b-5" target="5SrO1-f8xOF5O9hoDV5b-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-5" value="接收订单信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-5" value="接收订单信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="50" y="25" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="入场前安检" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
@@ -51,7 +51,7 @@
         <mxCell id="5SrO1-f8xOF5O9hoDV5b-2" value="称重系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="40" y="300" width="770" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-7" value="接收订单、车辆信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-7" value="接收订单、车辆信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
           <mxGeometry x="274" y="22.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5SrO1-f8xOF5O9hoDV5b-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5SrO1-f8xOF5O9hoDV5b-2" source="5SrO1-f8xOF5O9hoDV5b-11" target="5SrO1-f8xOF5O9hoDV5b-44">
@@ -75,10 +75,10 @@
         <mxCell id="5SrO1-f8xOF5O9hoDV5b-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5SrO1-f8xOF5O9hoDV5b-2" source="5SrO1-f8xOF5O9hoDV5b-31" target="5SrO1-f8xOF5O9hoDV5b-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-44" value="推送车辆入场信息" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-44" value="推送车辆入场信息" style="whiteSpace=wrap;html=1;rounded=0;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
           <mxGeometry x="500" y="22.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5SrO1-f8xOF5O9hoDV5b-39" value="推送装车信息" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
+        <mxCell id="5SrO1-f8xOF5O9hoDV5b-39" value="推送装车信息" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
           <mxGeometry x="660" y="22.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5SrO1-f8xOF5O9hoDV5b-31" value="出厂称重" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="5SrO1-f8xOF5O9hoDV5b-2">
